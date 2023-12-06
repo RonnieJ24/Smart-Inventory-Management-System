@@ -11,7 +11,7 @@ The Smart Inventory Management System is a Python-based application developed fo
 - **Algorithm Efficiency Analysis:** Includes a basic profiling method to measure and report the execution time of operations, aiding in continuous performance optimization.
 
 ## Installation
-Clone the repository to your local machine:
+Clone the repository to your local machine: git clone https://github.com/RonnieJ24/Smart-Inventory-Management-System
 
 ## Usage
 Run the application using Python. Ensure you have Python installed on your machine.
@@ -21,4 +21,3 @@ Contributions to the Smart Inventory Management System are welcome. Please fork 
 
 ## Contact
 For any queries regarding the project, please contact Rani Yaqoob at rani_yaqoob@icloud.com.
-
